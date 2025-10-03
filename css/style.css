@@ -381,6 +381,7 @@ body {
 .cart-modal__overlay.open {
   display: flex;
 }
+
 .cart-modal {
   width: 100%;
   max-width: 780px;
